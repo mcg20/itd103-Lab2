@@ -1,1 +1,1 @@
-# itd103-Lab2
+# Gamotia_ITD103_MQL_IT3D_Lab2
